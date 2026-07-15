@@ -5,3 +5,7 @@ las claves o los hashs
 
 #Clave remota. malvada
 #Ingreso de nueva clave 10/07/2026
+
+
+#Claves de desarrollador,
+#Estas claves solo estaran disponibles en las claves de desarrollador
